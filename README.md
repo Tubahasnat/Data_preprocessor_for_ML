@@ -176,8 +176,8 @@ Loaded 200 rows and 5 columns
 
 Splitting features and labels...
 Label column: 'label'
-✓ Feature matrix X: (200, 4)
-✓ Label vector y: (200,)
+Feature matrix X: (200, 4)
+Label vector y: (200,)
 
 Handling missing values using 'mean' strategy...
 Found 10 NaN values
@@ -208,3 +208,4 @@ ml-data-preprocessor/
 - Built with NumPy and pandas
 - Designed for seamless integration with scikit-learn and other ML libraries
 - Perfect for data science education and rapid prototyping
+
